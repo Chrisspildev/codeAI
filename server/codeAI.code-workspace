@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../codeAI"
+		},
+		{
+			"path": "../client"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
